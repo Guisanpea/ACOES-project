@@ -24,25 +24,19 @@ Construccion de edificios y viviendas para que puedan vivir. Tambien se hacen pr
 # Trabajo por hacer
 
 Aplicación para la gestión de niños y jovenes desde que entran en el poyecto ACOES hasta que acaben (alto nivel)
-
 No tienen bien hecho el sistema de CCJ ni de becas, las becas están hechas para dar a conocer los datos del niño, del proyecto. de su comunidad, a parte de la historia del mismo.
 
-A parte tienen que gestionarse los sicios y tiene que gestionarse la etiqueta, las cartas que se le tienen que mandar de su adoptado.
+A parte tienen que gestionarse los socios, tiene que gestionarse la etiqueta, las cartas que se le tienen que mandar de su adoptado.
 
 Tendría que estar en la nube para que se pueda acceder globalmente, gestión de becas, hacer un CRUD
 
 Todos los pagos, las compras y gastos deberían estar en una base de datos que se pudiesen exportar, ya que actualmente lo que ocurre es que leen los datos y lo escriben a mano, debería crearse un buen sistema.
 
-La parte de los pagos y los apadrinamientos y de las becas no debe ser la misma. Se comenta que debería haber poco acoplamiento por lo que el sistema de gestión de recursos debería ir separada de el sistema de apadrinamiento
-¿Siempre se va a poder tener acceso a internet o va a haber ocasiones en las que se tengan que hacer cambios para que después se suban?
-
-¿El sistema de administración de socios pueden acceder los socios o solamente por los administrativos?
+La parte de los pagos y los apadrinamientos y de las becas no debe ser la misma. Se comenta que debería haber poco acoplamiento por lo que el sistema de gestión de recursos debería ir separada de el sistema de apadrinamiento pero deberían de estar relacionados en la base de datos
 
 Siempre debería haber acceso a internet para la aplicación
 
-¿Habrá diferentes tipos 
+Con etiqueta se refiere a la ficha que se genera con la información de los apadrinados de manera gráfica.
 
-Con etiqueta se refiere a ña focja fosoca que se genera con la información de los apadrinados
-
-A los campos de las bases de datos se le llaman rublos
+A los campos de las bases de datos se le llaman rublos en Honduras
 
